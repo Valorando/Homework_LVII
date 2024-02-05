@@ -1,0 +1,25 @@
+@charset "windows-1251";
+
+body
+{
+    margin: 0px;
+    background-color: rgb(140, 140, 255);
+}
+
+article
+{
+    padding: 10px;
+    margin: 10px;
+    font-size: 35px;
+}
+
+section
+{
+    border: 10px solid red;
+    display: inline-flex;
+    background-color: rgb(223, 215, 215);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}

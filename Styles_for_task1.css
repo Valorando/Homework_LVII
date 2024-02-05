@@ -1,0 +1,64 @@
+@charset "windows-1251";
+
+body
+{
+    margin: 10px;
+}
+
+article
+{
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+section
+{
+    border: 2px solid blue;
+    display: inline-flex;
+    width: 400px;
+}
+
+#head1, #head2, #head3
+{
+    color: white;
+    margin-bottom: 5px;
+}
+
+#head1
+{
+    background-color: rgb(172, 94, 31);
+}
+
+#head2
+{
+    background-color: rgb(89, 173, 55);
+}
+
+#head3
+{
+    background-color: rgb(93, 93, 255);
+}
+
+#colum1
+{
+    background-color: rgb(253, 143, 92);
+}
+
+#colum2
+{
+    background-color: lightgreen;
+}
+
+#colum3
+{
+    background-color: lightblue;
+}
+
+ #colum1, #colum2, #colum3
+ {
+    height: 300px;
+ } 
